@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.question {
+  padding: 1rem;
+}
+.ques {
+  padding: 1rem;
+}
+.ans {
+  width: 80%;
+  margin: 0 1rem;
+  padding: 1rem;
+  border: 1.5px solid black;
+}
+ul {
+  padding: 1rem;
+}
